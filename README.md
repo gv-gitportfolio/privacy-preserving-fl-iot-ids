@@ -83,6 +83,7 @@ From the paper's comparative evaluation section:
 
 ## Figures
 
+![Framework](figures/framework.png)
 <!-- ![Framework](figures/framework.png) -->
 <!-- ![CNN architecture](figures/cnn-architecture.png) -->
 <!-- ![Results](figures/results.png) -->
