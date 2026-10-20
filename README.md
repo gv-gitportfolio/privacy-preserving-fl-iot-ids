@@ -41,8 +41,8 @@ The study evaluates detection performance, federated learning execution time, pr
 
 ## Datasets
 
-| Dataset | Approx. size | Preprocessing notes |
-| ---   | --- | --- |
+| Dataset    | Approx. size | Preprocessing notes |
+| ---      | --- | --- |
 | TON-IoT   | 461,040 records | Used the `Train_Test_Network` set; label encoding |
 | IoT-23   | 325.3M | Fixed string values, dropped empty columns; excluded Heartbeat, FileDownload, Mirai (few samples) |
 | BoT-IoT   | 73M | Converted hex/string port values, filled missing values, dropped empty columns |
