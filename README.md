@@ -1,5 +1,3 @@
-# privacy-preserving-fl-iot-ids
-Privacy-preserving federated learning for CNN-based IoT intrusion detection. Research showcase (ACM TOSEM 2025). Code not public.
 # Privacy-Preserving Federated Learning for IoT Intrusion Detection
 
 **Federated Learning · Deep Learning · Cybersecurity · Privacy-Preserving AI**
