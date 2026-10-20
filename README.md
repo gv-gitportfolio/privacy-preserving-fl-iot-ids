@@ -42,14 +42,14 @@ The study evaluates detection performance, federated learning execution time, pr
 ## Datasets
 
 | Dataset | Approx. size | Preprocessing notes |
-| --- | --- | --- |
-| TON-IoT | 461,040 records | Used the `Train_Test_Network` set; label encoding |
-| IoT-23 | 325.3M | Fixed string values, dropped empty columns; excluded Heartbeat, FileDownload, Mirai (few samples) |
-| BoT-IoT | 73M | Converted hex/string port values, filled missing values, dropped empty columns |
-| CIC IoT 2023 | 46.7M | Pre-processed CSVs; excluded Web-based and Brute-force attacks (few samples) |
-| **CIC IoMT 2024** ★| 9M | Label encoding, missing values filled, empty columns removed, Min-Max scaling |
-| **RT-IoT 2022** ★ | 1.5M | Hex converted to integers, strings replaced, empty columns removed, label encoding, Min-Max scaling |
-| **EdgeIIoT** ★ | 2.5M | Data cleansing, missing values filled, empty columns removed, column renaming, label encoding, Min-Max scaling |
+| ---   | --- | --- |
+| TON-IoT   | 461,040 records | Used the `Train_Test_Network` set; label encoding |
+| IoT-23   | 325.3M | Fixed string values, dropped empty columns; excluded Heartbeat, FileDownload, Mirai (few samples) |
+| BoT-IoT   | 73M | Converted hex/string port values, filled missing values, dropped empty columns |
+| CIC IoT 2023   | 46.7M | Pre-processed CSVs; excluded Web-based and Brute-force attacks (few samples) |
+| **CIC IoMT 2024** ★  | 9M | Label encoding, missing values filled, empty columns removed, Min-Max scaling |
+| **RT-IoT 2022** ★   | 1.5M | Hex converted to integers, strings replaced, empty columns removed, label encoding, Min-Max scaling |
+| **EdgeIIoT** ★   | 2.5M | Data cleansing, missing values filled, empty columns removed, column renaming, label encoding, Min-Max scaling |
 
 ★ = datasets I preprocessed and evaluated. Sizes are approximate source-dataset figures from the paper. Datasets are hosted by their providers and are not included here.
 
