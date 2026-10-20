@@ -88,7 +88,7 @@ From the paper's comparative evaluation section:
 <!-- ![CNN architecture](figures/cnn-architecture.png) -->
 <!-- ![Results](figures/results.png) -->
 
-*Figures reproduced from the published paper.*
+*Figure is used from the published paper.*
 
 ## Implementation Environment
 
@@ -103,6 +103,10 @@ From the paper's comparative evaluation section:
 
 This work was part of a federally funded university project, and the source code is not included in this repository. To request access or further information, please contact Center for Cybersecurity Innovation (CCI) at Texas A&M University-Central Texas.
 
+## Citation
+
+Torre, D., Chennamaneni, A., Jo, J., Vyas, G., & Sabrsula, B. (2025). Toward Enhancing Privacy Preservation of a Federated Learning CNN Intrusion Detection System in IoT: Method and Empirical Study. *ACM TOSEM*, 34(2), Article 53. https://doi.org/10.1145/3695998
+
 ## Acknowledgment
 
-Supported in part by the Air Force Research Laboratory (AFRL) and the Department of Homeland Security (DHS) Science and Technology Directorate under award FA8750-19-C-0077.
+Supported in part by the Air Force Research Laboratory (AFRL) and the Department of Homeland Security (DHS) Science and Technology Directorate under award FA8750-19-C-0077 and approved for public release.
