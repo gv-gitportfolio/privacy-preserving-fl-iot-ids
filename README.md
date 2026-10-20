@@ -47,7 +47,7 @@ The study evaluates detection performance, federated learning execution time, pr
 | IoT-23 | 325.3M | Fixed string values, dropped empty columns; excluded Heartbeat, FileDownload, Mirai (few samples) |
 | BoT-IoT | 73M | Converted hex/string port values, filled missing values, dropped empty columns |
 | CIC IoT 2023 | 46.7M | Pre-processed CSVs; excluded Web-based and Brute-force attacks (few samples) |
-| **CIC IoMT 2024** ★  | 9M | Label encoding, missing values filled, empty columns removed, Min-Max scaling |
+| **CIC IoMT 2024** ★| 9M | Label encoding, missing values filled, empty columns removed, Min-Max scaling |
 | **RT-IoT 2022** ★ | 1.5M | Hex converted to integers, strings replaced, empty columns removed, label encoding, Min-Max scaling |
 | **EdgeIIoT** ★ | 2.5M | Data cleansing, missing values filled, empty columns removed, column renaming, label encoding, Min-Max scaling |
 
@@ -80,8 +80,6 @@ From the paper's comparative evaluation section:
 | **CIC IoMT 2024** ★ | 95.63% |
 | **RT-IoT 2022** ★ | 99.47% |
 | **EdgeIIoT** ★ | 89.12% |
-
-*That section reports an overall average accuracy of 96.83% (F1 92.45%), while the abstract reports 97.31% (F1 92.69%). See the paper for the authoritative figures.*
 
 ## Figures
 
