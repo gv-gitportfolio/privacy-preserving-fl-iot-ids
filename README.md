@@ -1,6 +1,6 @@
 # Privacy-Preserving Federated Learning for IoT Intrusion Detection
 
-**Federated Learning · Deep Learning · Cybersecurity · Privacy-Preserving AI**
+**·Federated Learning · Deep Learning · Cybersecurity · Privacy-Preserving AI**
 
 [![DOI](https://img.shields.io/badge/DOI-10.1145%2F3695998-blue)](https://doi.org/10.1145/3695998)
 [![Journal](https://img.shields.io/badge/ACM%20TOSEM-2025-green)](https://dl.acm.org/doi/full/10.1145/3695998)
