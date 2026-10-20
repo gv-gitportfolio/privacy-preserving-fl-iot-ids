@@ -109,7 +109,3 @@ Torre, D., Chennamaneni, A., Jo, J., Vyas, G., & Sabrsula, B. (2025). Toward Enh
 ## Acknowledgment
 
 Supported in part by the Air Force Research Laboratory (AFRL) and the Department of Homeland Security (DHS) Science and Technology Directorate under award FA8750-19-C-0077.
-
-## Contact
-
-[Your Name] · [LinkedIn] · [Email]
