@@ -100,7 +100,7 @@ From the paper's comparative evaluation section:
 
 ## Code Availability
 
-This work was part of a federally funded university project, and the source code is not included in this repository. To request access or further information, please contact [University / Lab name] at [official contact].
+This work was part of a federally funded university project, and the source code is not included in this repository. To request access or further information, please contact [Center for Cybersecurity Innovation (CCI) at Texas A&M University-Central Texas].
 
 ## Citation
 
